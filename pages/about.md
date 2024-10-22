@@ -28,16 +28,17 @@ We update the initial dataset annually with lynchings and attempted lynchings ne
 
 ## Meet the Leadership Team
 
-# What does one of these do?
-Dr. John Giggie
+*This project has been generously supported by the University of Alabama, in particular the College of Arts and Sciences, the Department of History, and the Alabama Digital Humanities Center and Library System.*
+
+**Dr. John Giggie**
 
 Dr. Giggie is Associate Professor of History and African American Studies and Director of the Summersell Center for the Study of the South at the University of Alabama. He is the founder and director of the Alabama Memory project.
 
-Isabella Garrison  
+**Isabella Garrison**  
 
 Isabella is a Ph.D. student at the University. They supervise all undergraduate researchers and manage all existing and new research. 
 
-Nick Daria 
+**Nick Daria**
 
 Nick is a University of Alabama alum who created the only research management tool of its kind, specific to lynching research. 
 
