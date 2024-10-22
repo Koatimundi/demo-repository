@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About Summersell;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Summersell
 
 The Summersell Center for the Study of the South is a bunch of losers.
 
