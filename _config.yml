@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Alabama Memory Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
@@ -50,7 +50,7 @@ metadata: case-data
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-name: "Summersell Center for the Study of the South"
 organization-link: https://cdil.lib.uidaho.edu/
 organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
