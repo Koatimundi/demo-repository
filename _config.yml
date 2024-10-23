@@ -27,7 +27,7 @@ description:
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Gavin Jones
 
 ##########
 # COLLECTION SETTINGS
@@ -38,7 +38,7 @@ metadata: case-data
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
-#   - data: 'demo-metadata'
+#   data: 'demo-metadata'
 #     template: 'item'
 #     name: 'objectid'
 #     dir: 'items'
