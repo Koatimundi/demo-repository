@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
+date_date,Date,,,Date of lynching event
 creator,Creator,,,
 subject,,true
 location,,true
