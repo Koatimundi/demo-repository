@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About Summersell;About the About Page" %}
 
-## About The Alabama Memory Project
+## About Summersell
 
 Most studies of lynching focus on where and why a person was lynched. The Alabama Memory Project does this, but also asks who were they before they died – where did they live, where did they work, who did they love? 
 
@@ -38,7 +38,7 @@ Dr. Giggie is Associate Professor of History and African American Studies and Di
 
 Isabella is a Ph.D. student at the University. They supervise all undergraduate researchers and manage all existing and new research. 
 
-**Nick Daria**
+**Nick Daria** 
 
 Nick is a University of Alabama alum who created the only research management tool of its kind, specific to lynching research. 
 
